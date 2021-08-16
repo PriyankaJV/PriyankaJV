@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PriyankaJV
-- 👀 I’m interested in AI & ML and Data Science
+- 👀 I’m interested in Devops, AI & ML
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on AI projects involving python
 - 📫 How to reach me priyankajvenkatesh@gmail.com
